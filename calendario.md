@@ -20,7 +20,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">1</td>
     <td>08/11</td>
-    <td>Introdução</td>
+    <td>Introdução<br><a href="{{ 'assets/slides/A01-introducao.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
     <td></td>
   </tr>
