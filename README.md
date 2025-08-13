@@ -27,4 +27,3 @@ Essa disciplina é uma introdução às técnicas fundamentais para a programaç
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
-# dcc192-2025-2
