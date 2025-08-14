@@ -26,7 +26,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>08/13</td>
-    <td>SDL</td>
+    <td>SDL<br><a href="{{ 'assets/slides/A02-sdl.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
     <td rowspan="2">TP0: Setup</td>
     <td></td>
