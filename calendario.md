@@ -28,7 +28,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>08/13</td>
     <td>SDL<br><a href="{{ 'assets/slides/A02-sdl.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
-    <td rowspan="2">TP0: Setup</td>
+    <td rowspan="4"><a href="{{ '/avaliacoes/tp0-config-inicial' | relative_url }}">TP0: Setup</a></td>
     <td></td>
   </tr>
 
@@ -43,14 +43,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td><b>DCC Week</b></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
 
   <tr>
     <td rowspan="2">3</td>
     <td>08/25</td>
     <td>Gráficos: Vetores + Transformações</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>

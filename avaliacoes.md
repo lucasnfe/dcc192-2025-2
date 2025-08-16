@@ -11,9 +11,10 @@ description: Lista de avaliações da disciplina.
 
 Implementação **individual** de jogos clássicos em C++, com duração de 1-2 semanas.
 
+- [TP0: Configuração Inicial](tp0-config-inicial) (5%)
 - TP1: Pong (10%)
 - TP2: Asteroids (10%)
-- TP3: Super Mario Bros 1-1 (15%)
+- TP3: Super Mario Bros 1-1 (10%)
 - TP4: Star Fox Tunnel (15%)
 
 ## Projeto Final (50%)
