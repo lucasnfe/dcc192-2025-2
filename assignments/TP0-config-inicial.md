@@ -92,7 +92,7 @@ Na primeira parte, você irá baixar e instalar a IDE CLion e a biblioteca SDL.
 
 ### **Parte 2: primeiro programa SDL**
 
-Nessa etapa, você irá utilizar a IDE Clion para escrever um programa em C++/SDL2 que desenha um quadrado em uma janela. Siga as instruções TODO a seguir para completar a tarefa.
+Nessa etapa, você irá utilizar a IDE Clion para escrever um programa em C++/SDL2 que desenha um quadrado em uma janela. Siga as instruções a seguir para completar a tarefa. Cada instrução está relacionada com uma comentário começando com `TODO` no código-base.
 
 1. Inicialize o subsistema de vídeo da SDL e verifique se a inicialização ocorreu com sucesso. Se não, imprima uma mensagem de erro para o usuário com a função `SDL_Log` e retorne -1.
 
