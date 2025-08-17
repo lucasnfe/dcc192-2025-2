@@ -29,7 +29,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>SDL<br><a href="{{ 'assets/slides/A02-sdl.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
     <td rowspan="4"><a href="{{ '/avaliacoes/tp0-config-inicial' | relative_url }}">TP0: Setup</a></td>
-    <td></td>
   </tr>
 
   <tr>
@@ -41,7 +40,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>08/20</td>
     <td><b>DCC Week</b></td>
-    <td></td>
     <td></td>
   </tr>
 
@@ -67,7 +65,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>09/03</td>
     <td>Física: Objetos Rígidos</td>
-    <td></td>
     <td></td>
   </tr>
 
@@ -95,7 +92,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>09/17</td>
     <td>Gráficos: Câmera e Projeções</td>
     <td></td>
-    <td></td>
   </tr>
 
   <tr>
@@ -107,7 +103,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>09/24</td>
     <td><b>Atividades Complementares</b></td>
-    <td></td>
     <td></td>
   </tr>
 
@@ -122,7 +117,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>10/01</td>
     <td>Game Design II</td>
     <td></td>
-    <td></td>
   </tr>
 
   <tr>
@@ -136,7 +130,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>10/08</td>
     <td>Áudio: reprodução</td>
     <td></td>
-    <td></td>
   </tr>
 
   <tr>
@@ -148,7 +141,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>10/15</td>
     <td>Gráficos: Interfaces</td>
-    <td></td>
     <td></td>
   </tr>
 
@@ -163,7 +155,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>10/22</td>
     <td>IA: Máquinas de Estados Finitos</td>
     <td></td>
-    <td></td>
   </tr>
 
   <tr>
@@ -175,7 +166,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>10/29</td>
     <td>IA: Pathfinding</td>
-    <td></td>
     <td></td>
   </tr>
 
@@ -190,7 +180,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>11/05</td>
     <td>IA: Procedural Content Generation</td>
     <td></td>
-    <td></td>
   </tr>
 
   <tr>
@@ -202,7 +191,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>11/12</td>
     <td>Gráficos: Shaders</td>
-    <td></td>
     <td></td>
   </tr>
 
@@ -216,7 +204,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>11/19</td>
     <td>Narrativas: Cutscenes</td>
     <td></td>
-    <td></td>
   </tr>
 
   <tr>
@@ -229,7 +216,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>11/26</td>
     <td><b>Atividades Complementares</b></td>
-    <td></td>
     <td></td>
   </tr>
 
