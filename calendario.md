@@ -35,7 +35,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td rowspan="2">2</td>
     <td>08/18</td>
     <td>Gráficos I: Fundamentos e Modelos<br><a href="{{ 'assets/slides/A03-graphics1.pdf' | relative_url }}">[slides]</a></td>
-    <td></td>
+    <td>Game Engine Architecture: 10. The Rendering Engine (pgs. 443-453)</td>
   </tr>
   <tr>
     <td>08/20</td>
