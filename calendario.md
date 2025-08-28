@@ -35,7 +35,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td rowspan="2">2</td>
     <td>08/18</td>
     <td>Gráficos I: Fundamentos e Modelos<br><a href="{{ 'assets/slides/A03-graphics1.pdf' | relative_url }}">[slides]</a></td>
-    <td>Game Engine Architecture: 10. The Rendering Engine (pgs. 443-453)</td>
+    <td>Game Engine Architecture: 10. The Rendering Engine (pgs. 443-461)</td>
   </tr>
   <tr>
     <td>08/20</td>
@@ -46,8 +46,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">3</td>
     <td>08/25</td>
-    <td>Gráficos: Vetores + Transformações</td>
-    <td></td>
+    <td>Gráficos: OpenGL + Transformações<br><a href="{{ 'assets/slides/A04-graphics2.pdf' | relative_url }}">[slides]</a></td>
+    <td>Learn Open GL: <a href="https://learnopengl.com/Getting-started/Hello-Triangle">Hello Triangle</a>, <a href="https://learnopengl.com/Getting-started/Shaders">Shaders</a> e <a href="https://learnopengl.com/Getting-started/Transformations">Transformations</a></td>
   </tr>
   <tr>
     <td>08/27</td>
