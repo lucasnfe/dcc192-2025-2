@@ -130,8 +130,7 @@ Nessa etapa, sinta-se à vontade para deixar o resultado do seu TP mais criativo
 
 ## Submissão
 
-Para submeter o seu trabalho, basta fazer o commit e o push das suas alterações no repositório que foi criado para
-você no GitHub classroom.
+Para submeter o seu trabalho, basta fazer o commit e o push das suas alterações no repositório que foi criado para você no GitHub classroom.
 
 ```
 git add .
