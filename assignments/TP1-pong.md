@@ -232,9 +232,9 @@ git push
 ## Barema
 
 - Parte 1: Game Loop (10%)
-- Parte 2: Renderizador (40%)
+- Parte 2: Renderizador (30%)
 - Parte 3: Objetos do Jogo (20%)
-- Parte 4: Customização (30%)
+- Parte 4: Customização (40%)
 
 ## Referências
 
