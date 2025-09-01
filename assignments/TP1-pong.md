@@ -212,7 +212,7 @@ Na quarta, e última etapa, você irá customizar a implementação básica para
 
 2. Modifique as cores da bolinha e das raquetes. Elas devem obrigatoriamente ter cores diferentes. Isso deve ser feito adicionando uma variável uniform no shader de fragmento.
 
-3. Modifique o formato da bolinha para que ela seja um círculo e não um retângulo. Dica: para isso, você precisará manter dois conjuntos de vértices na GPU e alternar a ativação deles durante a renderização.  
+3. Modifique o formato da bolinha para que ela seja um círculo e não um retângulo.  Dica: para isso, você precisará manter um conjunto de vértices `VertexArray` diferente para cada um dos objetos do jogo e ativar esses vértices antes de desenhar cada objeto. Além disso, lembre-se que no TP0 você implementou uma função para desenhar um círculo aproximado por um polígono regular de N lados.
 
 4. Reinicie a partida ao invés de fechar o jogo quando a bolinha passar pelos cantos horizontais da tela.
 
