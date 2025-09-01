@@ -53,7 +53,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>08/27</td>
     <td>Eng Soft: Game Loop</td>
     <td></td>
-    <td rowspan="4">TP1: Pong</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -61,6 +61,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>09/01</td>
     <td>Eng Soft: Game Objects</td>
     <td></td>
+    <td rowspan="4"><a href="{{ '/avaliacoes/tp1-pong' | relative_url }}">TP1: Pong</a></td>
   </tr>
   <tr>
     <td>09/03</td>
@@ -77,7 +78,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>09/10</td>
     <td>Física: Colisão II</td>
-    <td></td>
     <td></td>
   </tr>
 
