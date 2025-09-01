@@ -212,7 +212,9 @@ Na quarta, e última etapa, você irá customizar a implementação básica para
 
 2. Modifique as cores da bolinha e das raquetes. Elas devem obrigatoriamente ter cores diferentes. Isso deve ser feito adicionando uma variável uniform no shader de fragmento.
 
-3. Reinicie a partida ao invés de fechar o jogo quando a bolinha passar pelos cantos horizontais da tela.
+3. Modifique o formato da bolinha para que ela seja um círculo e não um retângulo. Dica: para isso, você precisará manter dois conjuntos de vértices na GPU e alternar a ativação deles durante a renderização.  
+
+4. Reinicie a partida ao invés de fechar o jogo quando a bolinha passar pelos cantos horizontais da tela.
 
 ## Submissão
 

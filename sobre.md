@@ -33,15 +33,15 @@ Essa disciplina não tem nenhum pré-requisito formal, mas é esperado que os al
 
 4. Gráficos 2D
 
-    Pipeline gráfico; modelos 3D; câmeras; iluminação e sombreamento; visibilidade.
+    Sprites; spritesheets; animações 2D; câmeras 2D; tilemaps; camadas.
 
 5. Gráficos 3D
 
-    Sprites; spritesheets; animações 2D; câmeras 2D; tilemaps; camadas.
+    Pipeline gráfico; modelos 3D; câmeras; iluminação e sombreamento; visibilidade.
 
 6. ⁠Inteligência Articifial
 
-    Máquina de estados finitos; Árvores de Comportamento; comportamentos de navegação; planejamento de caminhos (pathfinding).
+    Máquina de estados finita; árvores de comportamento; comportamentos de navegação; planejamento de caminhos (pathfinding).
 
 7. Áudio
 
