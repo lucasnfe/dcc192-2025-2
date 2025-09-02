@@ -59,7 +59,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">4</td>
     <td>09/01</td>
-    <td>Eng Soft: Game Objects</td>
+    <td>Eng Soft: Game Objects<br><a href="{{ 'assets/slides/A06-gameobjects.pdf' | relative_url }}">[slides]</a></td>
     <td>Game Prog. Patterns:<br><a href="https://gameprogrammingpatterns.com/update-method.html">10. Update Method</a></td>
     <td rowspan="4"><a href="{{ '/avaliacoes/tp1-pong' | relative_url }}">TP1: Pong</a></td>
   </tr>
