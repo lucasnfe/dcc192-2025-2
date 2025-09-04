@@ -65,8 +65,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>03/09</td>
-    <td>7. Física: Objetos Rígidos</td>
-    <td></td>
+    <td>7. Física: Objetos Rígidos<br><a href="{{ 'assets/slides/A07-fisica1.pdf' | relative_url }}">[slides]</a></td>
+    <td>The Nature of Code:<br><a href="https://natureofcode.com/forces/">2. Forces</a></td>
   </tr>
 
   <tr>
