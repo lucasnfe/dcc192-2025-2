@@ -72,7 +72,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">5</td>
     <td>08/09</td>
-    <td>8. Física: Detecção de Colisão<br><a href="{{ 'assets/slides/A08-fisica2.pdf' | relative_url }}"></td>
+    <td>8. Física: Detecção de Colisão<br><a href="{{ 'assets/slides/A08-fisica2.pdf' | relative_url }}">[slides]</a></td>
     <td><a href="https://www.jeffreythompson.org/collision-detection/index.php">Jeff Thompson's Collision Detection Tutorial</a></td>
   </tr>
   <tr>
