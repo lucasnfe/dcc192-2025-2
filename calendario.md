@@ -77,8 +77,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>10/09</td>
-    <td>9. Física: Colisão II</td>
-    <td></td>
+    <td>9. Física: Otimizações</td>
+    <td>Game Prog. Patterns:<br><a href="https://gameprogrammingpatterns.com/spatial-partition.html">20. Spatial Partition</a></td>
   </tr>
 
   <tr>

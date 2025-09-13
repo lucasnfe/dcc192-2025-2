@@ -7,7 +7,7 @@ nav_exclude: true
 
 # TP1: Pong
 
-#### Entrega: 15/09/2025 às 11:59h
+#### Entrega: 15/09/2025, 23:59h
 
 ## Introdução
 
