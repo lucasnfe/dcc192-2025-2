@@ -90,14 +90,14 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>17/09</td>
-    <td>11. Gráficos: Câmera e Projeções</td>
+    <td>11. Gráficos: Animações 2D</td>
     <td></td>
   </tr>
 
   <tr>
     <td rowspan="2">7</td>
     <td>22/09</td>
-    <td>12. Gráficos: Sprites e Animações 2D</td>
+    <td>12. Gráficos: Câmeras 2D</td>
     <td></td>
   </tr>
   <tr>
@@ -135,19 +135,19 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">10</td>
     <td>13/10</td>
-    <td>17. Áudio: produção</td>
+    <td>17. Gráficos: Animações 3D</td>
     <td></td>
   </tr>
   <tr>
     <td>15/10</td>
-    <td>18. Gráficos: Interfaces</td>
+    <td>18. Gráficos: Câmeras 3D</td>
     <td></td>
   </tr>
 
   <tr>
     <td rowspan="2">11</td>
     <td>20/10</td>
-    <td>19. Gráficos: HUD</td>
+    <td>19. Gráficos: Interace com o Usuário</td>
     <td></td>
     <td rowspan="4">TP4: Star Fox Tunnel</td>
   </tr>
