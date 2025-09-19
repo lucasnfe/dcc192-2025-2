@@ -86,7 +86,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>15/09</td>
     <td>10. Gráficos: Sistemas de Partículas<br><a href="{{ 'assets/slides/A10-particle-systems.pdf' | relative_url }}">[slides]</a></td>
     <td>The Nature of Code:<br><a href="https://natureofcode.com/particles/">4. Particle Systems</a></td>
-    <td rowspan="4">TP2: Asteroids</td>
+    <td rowspan="4"><a href="{{ '/avaliacoes/tp2-asteroids' | relative_url }}">TP2: Asteroids</a></td>
   </tr>
   <tr>
     <td>17/09</td>
