@@ -73,7 +73,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td rowspan="2">5</td>
     <td>08/09</td>
     <td>8. Física: Detecção de Colisão<br><a href="{{ 'assets/slides/A08-fisica2.pdf' | relative_url }}">[slides]</a></td>
-    <td><a href="https://www.jeffreythompson.org/collision-detection/index.php">Jeff Thompson's Collision Detection Tutorial</a></td>
+    <td>Jeff Thompson, <a href="https://www.jeffreythompson.org/collision-detection/index.php">Collision Detection Tutorial</a></td>
   </tr>
   <tr>
     <td>10/09</td>
@@ -97,8 +97,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">7</td>
     <td>22/09</td>
-    <td>12. Gráficos: Câmeras 2D</td>
-    <td></td>
+    <td>12. Gráficos: Câmeras 2D<br><a href="{{ 'assets/slides/A12-cameras2d.pdf' | relative_url }}">[slides]</a></td>
+    <td>Itay Keren, <a href="https://gamedesignskills.com/game-design/camera-design-2d-side-scroller-games/">Scroll Back: The Definitive Camera Design Guide for 2D Games & Side-Scrollers</a></td>
   </tr>
   <tr>
     <td>24/09</td>
