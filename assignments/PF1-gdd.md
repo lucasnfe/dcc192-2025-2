@@ -7,7 +7,7 @@ nav_exclude: true
 
 # PF1: Documento de Design
 
-#### Entrega: 30/04 às 23:59h
+#### Entrega: 13/10 às 23:59h
 
 ## Introdução
 
@@ -19,11 +19,11 @@ Para o projeto final da disciplina, você irá desenvolver um pequeno jogo compl
 
 ## Instruções
 
-O seu jogo deve ser **desenvovlido em C++/SDL em um grupo de no mínimo 2 e no máximo 5 pessoas**, contendo: (1) menu inicial, (2) início e fim bem definidos, (3) sistema de progressão básica (dificuldade, narrativa, etc) e (4) interface para reiniciar o jogo quando ele terminar. Nessa primeira etapa, você irá escrever um Documento de Design de Jogo, do inglês, Game Design Document (GDD), para formalizar suas ideias de projeto. Seu GDD deve conter as seguinte seções escritas respeitando um **limite de 6 a 10 páginas (1 coluna, espaçamento simples, margem 2.5cm)**: 
+O seu jogo deve ser **desenvovlido em C++/SDL em um grupo de no mínimo 3 e no máximo 5 pessoas**, contendo: (1) menu inicial, (2) início e fim bem definidos, (3) sistema de progressão básica (dificuldade, narrativa, etc) e (4) interface para reiniciar o jogo quando ele terminar. Nessa primeira etapa, você irá escrever um Documento de Design do Jogo, do inglês, Game Design Document (GDD), para formalizar suas ideias de projeto. Seu GDD deve conter as seguinte seções escritas respeitando um **limite de 6 a 10 páginas (1 coluna, espaçamento simples, margem 2.5cm)**: 
 
 1. **Título e Autores** 
 
-    Apresente o título do projeto e o nome dos membros do grupo.
+    Apresente o título do jogo e o nome completo (com matrícula) dos membros do grupo.
 
 2. **Declaração Artística** 
 
@@ -53,7 +53,7 @@ O seu jogo deve ser **desenvovlido em C++/SDL em um grupo de no mínimo 2 e no m
     
     Essa seção descreve o estilo de arte que você pretende utilizar para criar os gráficos do seu jogo. Por exemplo, esse é um jogo 2D isométrico com sprites de alta resolução simulando um estilo de pixel art antigo. Utilize imagens como referência para comunicar visualmente o estilo que pretende utilizar. 
     
-    Como esse projeto está sendo desenvolvido no contexto de uma disciplina de programação de jogos, e não de arte, não é esperado que você tenha habilidades artística para a produção própria das imagens do seu jogo. Por isso, fique à vontade para utilizar imagens públicas. No entanto, se você tem interesse em começar a desenvolver suas próprias imagens, considere usar pixel art no seu jogo, pois esse é um estilo mais amigável para quem está começando. 
+    Como esse projeto está sendo desenvolvido no contexto de uma disciplina de programação de jogos, e não de arte, não é esperado que você tenha habilidades artística para a produção própria dos recursos (assets) visuais do seu jogo. Por isso, fique à vontade para utilizar assets públicos. No entanto, se você tem interesse em começar a desenvolver o seu próprio estilo, considere usar pixel art no seu jogo, pois esse é um estilo mais amigável para quem está começando. 
 
 5. **Música e Efeitos Sonoros**
 
@@ -61,7 +61,7 @@ O seu jogo deve ser **desenvovlido em C++/SDL em um grupo de no mínimo 2 e no m
 
 6. **Tecnologias** 
 
-    Essa seção descreve as tecnologias que você pretende utilizar durante o desenvolvimento e para quais plataformas você pretende publicar o jogo. Por exemplo, esse jogo será desenvolvido em C++ com a biblioteca SDL para facilitar que o jogo seja distribuído para plataformas diferentes. A arte será produzida com o editor pixel art [[Aseprite]](https://www.aseprite.org/) e a música com o sequenciador midi do [[FL Studio]](https://www.image-line.com/). O jogo será publicado para os sistemas operacionais Windows, Mac e Linux.
+    Essa seção descreve as tecnologias que você pretende utilizar durante o desenvolvimento e para quais plataformas você pretende publicar o jogo. Por exemplo, esse jogo será desenvolvido em C++ com a biblioteca SDL para facilitar que o jogo seja distribuído para plataformas diferentes. A arte será produzida com o editor pixel art [[Aseprite]](https://www.aseprite.org/) e a música com o sequenciador midi do [[FL Studio]](https://www.image-line.com/). O jogo será publicado para os sistemas operacionais Windows, Mac e Linux. Se for usar recursos visuais e sonoros de terceiros, informar como e de onde pretende conseguir esses recursos. Se for usar recursos gerador por IA, favor especificar qual modelo irá utilizar e como pretende alcançar os resultados desejados (ex. qual estratégia de prompt irá utilizar).
 
 7. **Marketing** 
 
@@ -69,7 +69,8 @@ O seu jogo deve ser **desenvovlido em C++/SDL em um grupo de no mínimo 2 e no m
 
 8. **Cronograma** 
 
-    Esse seção deve conter uma tabela com as atividades que irá realizar para produzir o jogo e suas respectivas datas previstas de início e fim.
+    Esse seção deve conter uma tabela com as atividades que o grupo irá realizar para produzir o jogo e suas respectivas datas previstas de início e fim.
+    Deve ser específicado também como as tarefas irão ser divididas entre os membros da equipe.
 
 Como os projetos podem ter escopos muito distintos, o seu GDD não precisa necessariamente responder todas as perguntas listadas em cada seção ou seguir exatamente os exemplos que foram dados. O importante é que ele deixe claro qual o objetivo do seu jogo, como ele será jogado, qual a estética visual e sonora, como ele será desenvolvido, qual a sua audiência, para que plataforma será publicado e quanto tempo levará para ficar pronto.
 

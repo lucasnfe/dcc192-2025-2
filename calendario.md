@@ -86,12 +86,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>15/09</td>
     <td>10. Gráficos: Sistemas de Partículas<br><a href="{{ 'assets/slides/A10-particle-systems.pdf' | relative_url }}">[slides]</a></td>
     <td>The Nature of Code:<br><a href="https://natureofcode.com/particles/">4. Particle Systems</a></td>
-    <td rowspan="4"><a href="{{ '/avaliacoes/tp2-asteroids' | relative_url }}">TP2: Asteroids</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>17/09</td>
     <td>11. Gráficos: Animações 2D</td>
     <td></td>
+    <td rowspan="4"><a href="{{ '/avaliacoes/tp2-asteroids' | relative_url }}">TP2: Asteroids</a></td>
   </tr>
 
   <tr>
@@ -111,11 +112,11 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>29/09</td>
     <td>13. Game Design I</td>
     <td></td>
-    <td rowspan="2">Game Design Document</td>
   </tr>
   <tr>
     <td>01/10</td>
     <td>14. Game Design II</td>
+    <td></td>
     <td></td>
   </tr>
 
@@ -174,7 +175,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>03/11</td>
     <td>22. IA: Steering Behaviors</td>
     <td></td>
-    <td rowspan="6">Prototipação</td>
+    <td rowspan="6">PF: Prototipação</td>
   </tr>
   <tr>
     <td>05/11</td>
@@ -211,7 +212,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>24/11</td>
     <td>28. Conclusão: Entrando na Indústria</td>
     <td></td>
-    <td rowspan="2">Playtest</td>
+    <td rowspan="2">PF: Playtest</td>
   </tr>
   <tr>
     <td>26/11</td>
