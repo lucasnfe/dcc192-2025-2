@@ -123,32 +123,32 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">9</td>
     <td>06/10</td>
-    <td>15. Áudio: síntese</td>
+    <td>15. Interace com o Usuário<br><a href="{{ 'assets/slides/A15-interface.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
     <td rowspan="4">TP3: Super Mario Bros</td>
   </tr>
   <tr>
     <td>08/10</td>
-    <td>16. Áudio: reprodução</td>
+    <td>16. Áudio: síntese</td>
     <td></td>
   </tr>
 
   <tr>
     <td rowspan="2">10</td>
     <td>13/10</td>
-    <td>17. Gráficos: Animações 3D</td>
+    <td>17. Áudio: reprodução</td>
     <td></td>
   </tr>
   <tr>
     <td>15/10</td>
-    <td>18. Gráficos: Câmeras 3D</td>
+    <td>18. Câmeras 3D</td>
     <td></td>
   </tr>
 
   <tr>
     <td rowspan="2">11</td>
     <td>20/10</td>
-    <td>19. Gráficos: Interace com o Usuário</td>
+    <td>19. Animações 3D</td>
     <td></td>
     <td rowspan="4">TP4: Star Fox Tunnel</td>
   </tr>
