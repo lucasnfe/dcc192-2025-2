@@ -300,6 +300,8 @@ Na sexta, e última etapa, você irá ajustar as variáveis do jogo para criar u
 
 3. Implemente a movimentação dos blocos de tijolo (tipo B) quando o mario os acerta por baixo. Nesse caso, o bloco deve se mover para cima e para baixo, retornando exatamente no ponto que estava originalmente.
 
+4. Implemente a geração (spawn) do cogumelo quando o jogador colidir com blocos de interrogação pré-definidos. Ou seja, nem todo bloco de interrogação deve gerar o cogumelo, apenas alguns pré-selecionados. O cogumelo deve se mover como no jogo original, sendo destruído quando sair dos limites horizontais e verticais da fase. Quando o jogador colidir com o cogumelo, o mario deve ficar grande e, quando estiver nesse estado e colidir com inimigos, ao invés de morrer, o mario deve ficar pequeno novamente, como no jogo orinal.
+
 ## Submissão
 
 Para submeter o seu trabalho, basta fazer o commit e o push das suas alterações no repositório que foi criado para você no GitHub classroom.
@@ -316,10 +318,10 @@ git push
 
 - Parte 1: Carregando uma fase (5%)
 - Parte 2: Movimentação de Câmera (5%)
-- Parte 3: Detecção de Colisão com AABBs (30%)
-- Parte 4: Animações (30%)
+- Parte 3: Detecção de Colisão com AABBs (25%)
+- Parte 4: Animações (25%)
 - Parte 5: Inimigos (10%)
-- Parte 6: Customização (20%)
+- Parte 6: Customização (30%)
 
 ## Referências
 
