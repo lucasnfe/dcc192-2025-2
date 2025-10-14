@@ -125,18 +125,19 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>06/10</td>
     <td>15. Interace com o Usuário<br><a href="{{ 'assets/slides/A15-interface.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
-    <td rowspan="4">TP3: Super Mario Bros</td>
+    <td></td>
   </tr>
   <tr>
     <td>08/10</td>
-    <td>16. Áudio: síntese</td>
+    <td>16. Síntese de Áudio<br><a href="{{ 'assets/slides/A16-audio-synth.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
+    <td rowspan="4"><a href="{{ '/avaliacoes/tp3-smb' | relative_url }}">TP3: Super Mario Bros</a></td>
   </tr>
 
   <tr>
     <td rowspan="2">10</td>
     <td>13/10</td>
-    <td>17. Áudio: reprodução</td>
+    <td>17. Reprodução de Áudio<br><a href="{{ 'assets/slides/A17-audio-system.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
   </tr>
   <tr>
@@ -150,12 +151,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>20/10</td>
     <td>19. Animações 3D</td>
     <td></td>
-    <td rowspan="4">TP4: Star Fox Tunnel</td>
   </tr>
   <tr>
     <td>22/10</td>
     <td>20. IA: Máquinas de Estados Finitos</td>
     <td></td>
+    <td rowspan="4">TP4: Star Fox Tunnel</td>
   </tr>
 
   <tr>
@@ -175,12 +176,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>03/11</td>
     <td>22. IA: Steering Behaviors</td>
     <td></td>
-    <td rowspan="6">PF: Prototipação</td>
   </tr>
   <tr>
     <td>05/11</td>
     <td>23. IA: Procedural Content Generation</td>
     <td></td>
+    <td rowspan="6">PF2: Prototipação</td>
   </tr>
 
   <tr>
@@ -212,12 +213,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>24/11</td>
     <td>28. Conclusão: Entrando na Indústria</td>
     <td></td>
-    <td rowspan="2">PF: Playtest</td>
   </tr>
   <tr>
     <td>26/11</td>
     <td><b>Atividades Complementares</b></td>
     <td></td>
+    <td>PF2: Playtest</td>
   </tr>
 
   <tr>
