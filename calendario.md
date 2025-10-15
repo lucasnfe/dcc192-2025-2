@@ -91,7 +91,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>17/09</td>
     <td>11. Gráficos 2D<br><a href="{{ 'assets/slides/A11-graphics2d.pdf' | relative_url }}">[slides]</a></td>
-    <td></td>
+    <td>Learn Open GL: <a href="https://learnopengl.com/Getting-started/Textures">Textures</a></td>
     <td rowspan="4"><a href="{{ '/avaliacoes/tp2-asteroids' | relative_url }}">TP2: Asteroids</a></td>
   </tr>
 
