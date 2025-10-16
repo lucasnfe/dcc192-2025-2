@@ -49,6 +49,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>4. OpenGL + Transformações<br><a href="{{ 'assets/slides/A04-graphics2.pdf' | relative_url }}">[slides]</a></td>
     <td>Learn Open GL: <a href="https://learnopengl.com/Getting-started/Hello-Triangle">Hello Triangle</a>, <a href="https://learnopengl.com/Getting-started/Shaders">Shaders</a> e <a href="https://learnopengl.com/Getting-started/Transformations">Transformations</a></td>
   </tr>
+
   <tr>
     <td>27/08</td>
     <td>5. Game Loop<br><a href="{{ 'assets/slides/A05-gameloop.pdf' | relative_url }}">[slides]</a></td>
@@ -101,6 +102,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>12. Câmeras 2D<br><a href="{{ 'assets/slides/A12-cameras2d.pdf' | relative_url }}">[slides]</a></td>
     <td>Itay Keren, <a href="https://gamedesignskills.com/game-design/camera-design-2d-side-scroller-games/">Scroll Back: The Definitive Camera Design Guide for 2D Games & Side-Scrollers</a></td>
   </tr>
+
   <tr>
     <td>24/09</td>
     <td><b>Atividades Complementares</b></td>
@@ -127,6 +129,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td></td>
     <td></td>
   </tr>
+
   <tr>
     <td>08/10</td>
     <td>16. Síntese de Áudio<br><a href="{{ 'assets/slides/A16-audio-synth.pdf' | relative_url }}">[slides]</a></td>
@@ -140,6 +143,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>17. Reprodução de Áudio<br><a href="{{ 'assets/slides/A17-audio-system.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
   </tr>
+
   <tr>
     <td>15/10</td>
     <td>18. Câmeras 3D</td>
@@ -149,12 +153,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">11</td>
     <td>20/10</td>
-    <td>19. Animações 3D</td>
+    <td>19. Iluminação 3D</td>
     <td></td>
   </tr>
+
   <tr>
     <td>22/10</td>
-    <td>20. IA: Máquinas de Estados Finitos</td>
+    <td>20. Animações 3D</td>
     <td></td>
     <td rowspan="4">TP4: Star Fox Tunnel</td>
   </tr>
@@ -167,19 +172,19 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>29/10</td>
-    <td>21. IA: Pathfinding</td>
+    <td>21. IA: Máquinas de Estados Finitos</td>
     <td></td>
   </tr>
 
   <tr>
     <td rowspan="2">13</td>
     <td>03/11</td>
-    <td>22. IA: Steering Behaviors</td>
+    <td>22. IA: Pathfinding</td>
     <td></td>
   </tr>
   <tr>
     <td>05/11</td>
-    <td>23. IA: Procedural Content Generation</td>
+    <td>23. IA: Steering Behaviors</td>
     <td></td>
     <td rowspan="6">PF2: Prototipação</td>
   </tr>
@@ -187,21 +192,23 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">14</td>
     <td>10/11</td>
-    <td>24. Gráficos: Iluminação</td>
+    <td>24. IA: Procedural Content Generation </td>
     <td></td>
   </tr>
+
   <tr>
     <td>12/11</td>
-    <td>25. Gráficos: Shaders</td>
+    <td>25. Jogos em Rede</td>
     <td></td>
   </tr>
 
   <tr>
     <td rowspan="2">15</td>
     <td>17/11</td>
-    <td>26. Narrativas: Quests</td>
+    <td>26. Narrativas: Cutscenes </td>
     <td></td>
   </tr>
+
   <tr>
     <td>19/11</td>
     <td>27. Narrativas: Cutscenes</td>
