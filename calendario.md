@@ -133,7 +133,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>08/10</td>
     <td>16. Síntese de Áudio<br><a href="{{ 'assets/slides/A16-audio-synth.pdf' | relative_url }}">[slides]</a></td>
-    <td></td>
+    <td>The Pudding: <a href="https://pudding.cool/2018/02/waveforms/">Let's Learn About Waveforms</a></td>
     <td rowspan="4"><a href="{{ '/avaliacoes/tp3-smb' | relative_url }}">TP3: Super Mario Bros</a></td>
   </tr>
 
