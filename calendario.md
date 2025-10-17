@@ -112,7 +112,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">8</td>
     <td>29/09</td>
-    <td>13. Game Design I</td>
+    <td>13. Game Design I<br><a href="{{ 'assets/slides/A13-game-design.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
   </tr>
   <tr>
