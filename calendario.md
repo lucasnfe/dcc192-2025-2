@@ -146,7 +146,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
 
   <tr>
     <td>15/10</td>
-    <td>18. Câmeras 3D<br><a href="{{ 'assets/slides/A18-camera3d.pdf' | relative_url }}">[slides]</a></td>
+    <td>17. Câmeras 3D<br><a href="{{ 'assets/slides/A18-camera3d.pdf' | relative_url }}">[slides]</a></td>
     <td>Learn Open GL: <a href="https://learnopengl.com/Getting-started/Coordinate-Systems">Coordinate Systems
 </a> e <a href="https://learnopengl.com/Getting-started/Camera">Camera</a></td>
   </tr>
@@ -154,13 +154,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">11</td>
     <td>20/10</td>
-    <td>19. Iluminação 3D</td>
+    <td>18. Câmeras 3D</td>
     <td></td>
   </tr>
 
   <tr>
     <td>22/10</td>
-    <td>20. Animações 3D</td>
+    <td>19. Iluminação 3D</td>
     <td></td>
     <td rowspan="4">TP4: Star Fox Tunnel</td>
   </tr>
@@ -173,19 +173,19 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>29/10</td>
-    <td>21. IA: Máquinas de Estados Finitos</td>
-    <td></td>
+    <td>20. IA: Máquinas de Estados Finitos<br><a href="{{ 'assets/slides/A20-fsm.pdf' | relative_url }}">[slides]</a></td>
+    <td>Game Prog. Patterns:<br><a href="https://gameprogrammingpatterns.com/state.html">7. State</a></td>
   </tr>
 
   <tr>
     <td rowspan="2">13</td>
     <td>03/11</td>
-    <td>22. IA: Pathfinding</td>
+    <td>21. IA: Pathfinding</td>
     <td></td>
   </tr>
   <tr>
     <td>05/11</td>
-    <td>23. IA: Steering Behaviors</td>
+    <td>22. IA: Steering Behaviors</td>
     <td></td>
     <td rowspan="6">PF2: Prototipação</td>
   </tr>
@@ -193,33 +193,33 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">14</td>
     <td>10/11</td>
-    <td>24. IA: Procedural Content Generation </td>
+    <td>23. IA: Procedural Content Generation </td>
     <td></td>
   </tr>
 
   <tr>
     <td>12/11</td>
-    <td>25. Jogos em Rede</td>
+    <td>24. Jogos em Rede</td>
     <td></td>
   </tr>
 
   <tr>
     <td rowspan="2">15</td>
     <td>17/11</td>
-    <td>26. Narrativas: Cutscenes </td>
+    <td>25. Narrativas: Cutscenes </td>
     <td></td>
   </tr>
 
   <tr>
     <td>19/11</td>
-    <td>27. Narrativas: Cutscenes</td>
+    <td>26. Narrativas: Cutscenes</td>
     <td></td>
   </tr>
 
   <tr>
     <td rowspan="2">16</td>
     <td>24/11</td>
-    <td>28. Conclusão: Entrando na Indústria</td>
+    <td>27. Conclusão: Entrando na Indústria</td>
     <td></td>
   </tr>
   <tr>
@@ -232,13 +232,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">17</td>
     <td>01/12</td>
-    <td>29. Apresentação dos Trabalhos Finais I</td>
+    <td>28. Apresentação dos Trabalhos Finais I</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>03/12</td>
-    <td>30. Apresentação dos Trabalhos Finais II</td>
+    <td>29. Apresentação dos Trabalhos Finais II</td>
     <td></td>
     <td></td>
   </tr>
@@ -252,7 +252,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>10/12</td>
-    <td>Exame Especial</td>
+    <td>30. Exame Especial</td>
     <td></td>
     <td></td>
   </tr>
