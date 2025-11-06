@@ -180,8 +180,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">13</td>
     <td>03/11</td>
-    <td>21. IA: Pathfinding</td>
-    <td></td>
+    <td>21. IA: Pathfinding<br><a href="{{ 'assets/slides/A20-fsm.pdf' | relative_url }}">[slides]</a></td>
+    <td>Red Blob Games:<br><a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">Introduction to the A* Algorithm</a></td>
   </tr>
   <tr>
     <td>05/11</td>
