@@ -15,7 +15,7 @@ Implementação **individual** de jogos clássicos em C++, com duração de 1-2 
 - [TP1: Pong](tp1-pong) (10%)
 - [TP2: Asteroids](tp2-asteroids) (10%)
 - [TP3: Super Mario Bros 1-1](tp3-smb) (10%)
-- TP4: Star Fox Tunnel (15%)
+- [TP4: Star Fox](tp4-star-fox) (15%)
 
 ## Projeto Final (50%)
 

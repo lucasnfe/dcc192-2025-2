@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Materiais
+title: Referências
 description: Lista de materiais utilizados na disciplina.
 ---
 
-# Materiais
+# Referências
 
-## Referências Bibliográficas
+## Livros
 
 Embora esta disciplina não siga explicitamente um livro-texto específico, as referências abaixo contém para muitos dos tópicos abordados.
 
@@ -17,7 +17,7 @@ Embora esta disciplina não siga explicitamente um livro-texto específico, as r
 - [Game Programming Patterns, Robert Nystron](https://gameprogrammingpatterns.com/)
 - [The Nature of Code, Daniel Shiffman](https://natureofcode.com/)
 
-## Disciplinas Relacionadas
+## Disciplinas
 
 - [University of Southern California, ITP 380: Video Game Programming](https://itp380.org/)
 - [Memorial University, COMP4300: Intro to Game Programming](https://www.youtube.com/watch?v=Eoq12SNaWI8&list=PL_xRyXins84_Sq7yZkxGP_MgYAH-Zo8Uu&ab_channel=DaveChurchill)
