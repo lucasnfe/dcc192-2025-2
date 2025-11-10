@@ -146,7 +146,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
 
   <tr>
     <td>15/10</td>
-    <td>17. Câmeras 3D<br><a href="{{ 'assets/slides/A18-camera3d.pdf' | relative_url }}">[slides]</a></td>
+    <td>18. Câmeras 3D<br><a href="{{ 'assets/slides/A18-camera3d.pdf' | relative_url }}">[slides]</a></td>
     <td>Learn Open GL: <a href="https://learnopengl.com/Getting-started/Coordinate-Systems">Coordinate Systems
 </a> e <a href="https://learnopengl.com/Getting-started/Camera">Camera</a></td>
   </tr>
