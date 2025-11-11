@@ -161,7 +161,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>22/10</td>
     <td>19. Iluminação 3D</td>
-    <td></td>
+    <td>Learn Open GL: <a href="https://learnopengl.com/Lighting/Colors">Lighting</a></td>
     <td rowspan="4">TP4: Star Fox Tunnel</td>
   </tr>
 
