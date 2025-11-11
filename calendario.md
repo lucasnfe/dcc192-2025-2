@@ -180,13 +180,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">13</td>
     <td>03/11</td>
-    <td>21. IA: Pathfinding<br><a href="{{ 'assets/slides/A20-fsm.pdf' | relative_url }}">[slides]</a></td>
+    <td>21. IA: Pathfinding<br><a href="{{ 'assets/slides/A21-pathfinding.pdf' | relative_url }}">[slides]</a></td>
     <td>Red Blob Games:<br><a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">Introduction to the A* Algorithm</a></td>
   </tr>
   <tr>
     <td>05/11</td>
-    <td>22. IA: Steering Behaviors</td>
-    <td></td>
+    <td>22. IA: Steering Behaviors<br><a href="{{ 'assets/slides/A22-steering-behavious.pdf' | relative_url }}">[slides]</a></td>
+    <td>The Nature of Code:<br><a href="https://natureofcode.com/autonomous-agents/">5. Autonomous Agents</a></td>
     <td rowspan="6">PF2: Prototipação</td>
   </tr>
 
