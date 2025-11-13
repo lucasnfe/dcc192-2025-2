@@ -193,13 +193,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">14</td>
     <td>10/11</td>
-    <td>23. IA: Procedural Content Generation </td>
-    <td></td>
+    <td>23. IA: Procedural Content Generation I<br><a href="{{ 'assets/slides/A23-pcg.pdf' | relative_url }}">[slides]</a></td>
+    <td>PCG Book:<br><a href="https://www.pcgbook.com/chapter01.pdf">1. Introduction</a></td>
   </tr>
 
   <tr>
     <td>12/11</td>
-    <td>24. Jogos em Rede</td>
+    <td>24. IA: Procedural Content Generation II</td>
     <td></td>
   </tr>
 
