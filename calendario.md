@@ -206,13 +206,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">15</td>
     <td>17/11</td>
-    <td>25. Narrativas: Cutscenes </td>
+    <td>25. Narrativas: Cutscenes e Missões</td>
     <td></td>
   </tr>
 
   <tr>
     <td>19/11</td>
-    <td>26. Narrativas: Cutscenes</td>
+    <td>26. Jogos em Rede</td>
     <td></td>
   </tr>
 
