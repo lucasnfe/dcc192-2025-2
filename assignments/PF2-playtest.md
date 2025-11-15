@@ -7,11 +7,11 @@ nav_exclude: true
 
 # PF2: Prototipação & Playtest
 
-#### Entrega: 30/06 às 23:59h
+#### Entrega: 30/11 às 23:59h
 
 ## Introdução
 
-Na indústria de videogames, *playtesting* é o processo de expor um jogo em desenvolvimento (ou partes específicas dele) ao público-alvo, com o objetivo de identificar falhas de design e coletar feedback. Nesta etapa do projeto final, você realizará um playtest com colegas da disciplina para identificar bugs e problemas antes da entrega final (em uma semana). Seu jogo será avaliado por pelo menos um colega (escolhido aleatoriamente), que irá jogá-lo e responder a um questionário via Google Forms sobre aspectos de design e implementação.
+Na indústria de videogames, *playtesting* é o processo de expor um jogo em desenvolvimento (ou partes específicas dele) ao público-alvo, com o objetivo de identificar falhas de design e coletar feedback. Nesta etapa do projeto final, você realizará um playtest com colegas da disciplina para identificar bugs e problemas antes da entrega final (em uma semana). Seu jogo será avaliado por outro grupo da turmoa (escolhido aleatoriamente), que irá jogá-lo e responder a um questionário via Google Forms sobre aspectos de design e implementação.
 
 ## Objetivo
 
@@ -23,11 +23,12 @@ Para a entrega final, é necessário que o seu jogo tenha, no mímimo, as seguin
 - Arte visual representando os objetos do jogos (vetorial, sprites, etc); 
 - Efeitos sonoros e música de fundo durante o jogo.
 
-Nessa entrega de playtest, o objetivo é testar as mecânicas principais do jogo, as condições de vitória/derrota e se os objetivos do jogo são interessantes. Em outras palavras, o jogador deve ter a experiência clara de um jogo (com objetivo), e não apenas de uma aplicação interativa. Nesse momento, não é necessário que o seu jogo tenha um menu, ou que a arte ou música estejam finalizadas, pois esses aspetos serão avaliados apenas na última etapa. No entanto, se já tiver avançado esses aspector e quiser coletar feedback, sinta-se a vontade para mantê-los na entrega.
+Nessa entrega de playtest, o objetivo é testar se as mecânicas principais do jogo estão produzindo as dinâmicas e estéticas planejadas. 
+Além disso, será avaliada a jogabilidade do jogo, ou seja, o quão fácil e intuitivo é para o jogador aprender as mecânicas proposta. Para isso, o jogador deve ter a experiência clara de um jogo (com regras objetivo), e não apenas de uma aplicação interativa. Nesse momento, não é necessário que o seu jogo tenha um menu, ou que a arte ou música estejam finalizadas, pois esses aspetos serão avaliados apenas na última etapa. No entanto, se já tiver avançado esses aspector e quiser coletar feedback, sinta-se a vontade para mantê-los na entrega.
 
 ## Instruções
 
-O código do jogo estar em um repositório no GitHub com todos os membros do grupo adicionados como colaboradores. Nessa etapa 
+O código do jogo estar em um repositório no GitHub com todos os membros do grupo adicionados como colaboradores. 
 
 Na raiz desse repositório, crie um arquivo `README.md` com as seguintes seções:
 

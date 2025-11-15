@@ -162,7 +162,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>22/10</td>
     <td>19. Iluminação 3D</td>
     <td>Learn Open GL: <a href="https://learnopengl.com/Lighting/Colors">Lighting</a></td>
-    <td rowspan="4">TP4: Star Fox Tunnel</td>
+    <td rowspan="4"><a href="{{ '/avaliacoes/tp4-star-fox' | relative_url }}">TP4: Star Fox</a></td>
   </tr>
 
   <tr>
@@ -187,7 +187,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>05/11</td>
     <td>22. IA: Steering Behaviors<br><a href="{{ 'assets/slides/A22-steering-behavious.pdf' | relative_url }}">[slides]</a></td>
     <td>The Nature of Code:<br><a href="https://natureofcode.com/autonomous-agents/">5. Autonomous Agents</a></td>
-    <td rowspan="6">PF2: Prototipação</td>
+    <td rowspan="6"><a href="{{ '/avaliacoes/pf2-playtest' | relative_url }}">PF2: Prototipação</a></td>
   </tr>
 
   <tr>
@@ -226,21 +226,21 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>26/11</td>
     <td><b>Atividades Complementares</b></td>
     <td></td>
-    <td>PF2: Playtest</td>
+    <td></td>
   </tr>
 
   <tr>
     <td rowspan="2">17</td>
     <td>01/12</td>
-    <td>28. Apresentação dos Trabalhos Finais I</td>
+    <td>28. Aula Prática I</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>03/12</td>
-    <td>29. Apresentação dos Trabalhos Finais II</td>
+    <td>29. Aula Prática II</td>
     <td></td>
-    <td></td>
+    <td>PF2: Playtest</td>
   </tr>
 
   <tr>
@@ -252,7 +252,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>10/12</td>
-    <td>30. Exame Especial</td>
+    <td>30. Apresentação dos Trabalhos Finais I</td>
     <td></td>
     <td></td>
   </tr>
