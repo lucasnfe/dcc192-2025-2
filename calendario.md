@@ -206,8 +206,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">15</td>
     <td>17/11</td>
-    <td>25. Narrativas: Cutscenes e Missões</td>
-    <td></td>
+    <td>25. Narrativas: Cutscenes e Missões<br><a href="{{ 'assets/slides/A24-narrativas.pdf' | relative_url }}">[slides]</a></td>
+    <td>Leszek Szczepanski's GDC Talk: <a href="https://www.youtube.com/watch?v=ykPZcG8_mPU&ab_channel=GameDevelopersConference">Building Non-Linear Narratives in Horizon: Zero Dawn</a></td>
   </tr>
 
   <tr>
