@@ -113,7 +113,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td rowspan="2">8</td>
     <td>29/09</td>
     <td>13. Game Design I<br><a href="{{ 'assets/slides/A13-game-design.pdf' | relative_url }}">[slides]</a></td>
-    <td></td>
+    <td>Hunicke, Robin, Marc LeBlanc, and Robert Zubek. <a href="https://cdn.aaai.org/Workshops/2004/WS-04-04/WS04-04-001.pdf">MDA: A formal approach to game design and game research.</a>" 2004.</td>
   </tr>
   <tr>
     <td>01/10</td>
@@ -161,7 +161,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>22/10</td>
     <td>19. Iluminação 3D</td>
-    <td>Learn Open GL: <a href="https://learnopengl.com/Lighting/Colors">Lighting</a></td>
+    <td>Learn Open GL: <a href="https://learnopengl.com/Lighting/Basic-Lighting">Lighting</a></td>
     <td rowspan="4"><a href="{{ '/avaliacoes/tp4-star-fox' | relative_url }}">TP4: Star Fox</a></td>
   </tr>
 
@@ -212,8 +212,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
 
   <tr>
     <td>19/11</td>
-    <td>26. Jogos em Rede</td>
-    <td></td>
+    <td>26. Efeitos de Pós-Processamento<br><a href="{{ 'assets/slides/A24-narrativas.pdf' | relative_url }}">[slides]</a></td>
+    <td>Learn Open GL: <a href="https://learnopengl.com/Advanced-OpenGL/Framebuffers">Framebuffers</a></td>
   </tr>
 
   <tr>

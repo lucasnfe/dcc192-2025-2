@@ -7,7 +7,7 @@ nav_exclude: true
 
 # TP4: Star Fox
 
-#### Entrega: 19/11/2025 às 23:59h
+#### Entrega: ~~19/11/2025~~ 23/11/2025 às 23:59h
 
 ## Introdução
 
