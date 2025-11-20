@@ -212,7 +212,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
 
   <tr>
     <td>19/11</td>
-    <td>26. Efeitos de Pós-Processamento<br><a href="{{ 'assets/slides/A24-narrativas.pdf' | relative_url }}">[slides]</a></td>
+    <td>26. Efeitos de Pós-Processamento<br><a href="{{ 'assets/slides/A25-post-processing.pdf' | relative_url }}">[slides]</a></td>
     <td>Learn Open GL: <a href="https://learnopengl.com/Advanced-OpenGL/Framebuffers">Framebuffers</a></td>
   </tr>
 
