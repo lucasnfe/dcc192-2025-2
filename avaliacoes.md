@@ -22,7 +22,7 @@ Implementação **individual** de jogos clássicos em C++, com duração de 1-2 
 Proposta, implementação e teste de um pequeno jogo completo, **em grupos** (2-4 alunos), com duração de aproximadamente 7.5 semanas.
 
 - [PF1: Documento de Design](pf1-gdd) (5%)
-- [PF2: Protótipo & Playtest](pf2-playtest) (30%)
-- PF3: Lançamento (15%)
+- [PF2: Protótipo & Playtest](pf2-playtest) (15%)
+- [PF3: Lançamento](pf3-launch) (30%)
 
 Tanto os TPs quando o projeto final serão entregues via Moodle. O envio será o envio de um link para o seu repositório no GitHub. As instruções exatas estarão detalhadas nos roteiros de cada projeto.

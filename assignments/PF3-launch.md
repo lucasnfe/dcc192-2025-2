@@ -1,13 +1,13 @@
 ---
 layout: page
-title:  PF2 - Prototipação & Playtest
+title:  PF3 - Lançamento
 permalink: /avaliacoes/pf3-launch
 nav_exclude: true
 ---
 
 # PF3: Lançamento
 
-#### Entrega: 07/07 às 10:00h
+#### Entrega: 10/12 às 10:00h
 
 ## Introdução
 
@@ -15,15 +15,17 @@ Considerando o feedback que você recebeu do seu jogo, agora chegou a hora de fi
 
 ## Objetivo
 
-Na etapa anterior, você focou nas mecânicas e no objetivo do seu jogo. Nesta etapa final, o objetivo é corrigir eventuais bugs e fazer os últimos ajustes com base nos comentários coletados durante o playtest. Além disso, é importante adicionar um menu principal e polir a arte e a música do seu jogo. O resultado final deve conter, minimamente:
+Na etapa anterior, você focou nas mecânicas e no objetivo do seu jogo. Nesta etapa final, o objetivo é corrigir eventuais bugs e fazer os últimos ajustes com base nos comentários coletados durante o playtest. Além disso, é importante polir a arte e a música do seu jogo. 
+
+## Instruções
+
+O resultado final deve conter, minimamente:
 
 - Um menu principal com o nome do jogo (fique à vontade para adicionar os nomes dos autores também);
-- Uma cena com as mecânicas principais implementadas;
+- Ao menos uma cena com as mecânicas principais implementadas;
 - Condições de vitória e derrota claramente apresentadas ao jogador;
 - Arte visual representando os objetos do jogo (vetorial, sprites etc.);
 - Efeitos sonoros e música de fundo durante o jogo.
-
-## Instruções
 
 A apresentação deve ser feita usando o Google Slides e ter entre 5 e 8 minutos de duração, contendo, no mínimo, a seguinte estrutura:
 
@@ -40,6 +42,10 @@ Os trabalhos serão avaliados pelos alunos e por um júri técnico composto por 
 
 ## Submissão
 
-Crie uma nova [*release* no seu projeto do GitHub](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository), correspondente à versão final do jogo, e envie os links da apresentação no Google Slides e do repositório GitHub na tarefa `PF3: Lançamento` do Moodle. **Apenas um membro do grupo deve fazer a submissão**.
+Como etapa de final do seu projeto, **apenas um membro do grupo** deve submeter na tarefa `PF3: Lançamento` do Moodle:
 
-Todas as apresentações serão feitas a partir do mesmo computador. Ou seja, o código do seu jogo será compilado para esse computador usando a versão submetida. Além disso, é fundamental que os slides sejam feitos no Google Slides, para minimizar o tempo de troca de computadores durante as apresentações.
+1. O link para uma nova [*release* no seu projeto do GitHub](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository), correspondente à versão final do jogo
+2. O link da apresentação no Google Slides
+3. O link para um vídeo do YouTube mostrando o gameplay do seu jogo. Esse link deve estar no README do seu github também
+
+Todas as apresentações serão feitas a partir do mesmo computador. Ou seja, o código do seu jogo será compilado para esse computador usando a versão submetida. Além disso, **é fundamental que os slides sejam feitos no Google Slides**, para minimizar o tempo de troca de computadores durante as apresentações.

@@ -219,7 +219,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">16</td>
     <td>24/11</td>
-    <td>27. Conclusão: Entrando na Indústria</td>
+    <td>27. Apresentações Convidadas </td>
     <td></td>
   </tr>
   <tr>
@@ -232,13 +232,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">17</td>
     <td>01/12</td>
-    <td>28. Aula Prática I</td>
+    <td>28. Conclusão: Entrando na Indústria</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>03/12</td>
-    <td>29. Aula Prática II</td>
+    <td>29. PF2: Playtest</td>
     <td></td>
     <td>PF2: Playtest</td>
   </tr>
@@ -253,6 +253,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>10/12</td>
     <td>30. Apresentação dos Trabalhos Finais I</td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td rowspan="2">19</td>
+    <td>15/12</td>
+    <td>31. Apresentação dos Trabalhos Finais II</td>
     <td></td>
     <td></td>
   </tr>
